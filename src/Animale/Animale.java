@@ -8,10 +8,10 @@ public class Animale {
 		// TODO Auto-generated method stub
 
 		Scanner scanner = new Scanner (System.in);
-		
+
 		System.out.println("Scrivi un nome");
 		String nome = scanner.nextLine();
-		System.out.println(nome + " Ã¨ un animale");
+		System.out.println(nome + " è un animale");
 	}
 
 }
